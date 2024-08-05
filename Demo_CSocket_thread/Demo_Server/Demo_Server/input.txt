@@ -1,0 +1,6 @@
+1.png CRITICAL
+2.png HIGH
+3.png NORMAL
+4.png NORMAL
+5.png CRITICAL
+JStewart_calculus-7th-edition.pdf CRITICAL
